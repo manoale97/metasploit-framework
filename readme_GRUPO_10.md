@@ -8,8 +8,6 @@ Inicio Readme
 
 <p align="justify"> Como herramientas clave de Metasploit se destacan msfconsole, que es la interfaz principal de interacción con el framework y permite ejecutar exploits. Meterpreter es una poderosa shell que brinda control sobre sistemas comprometidos, incluyendo la obtención de ubicaciones en tiempo real y capturas de pantalla. msfvenom permite crear payloads y generar archivos maliciosos para diferentes plataformas. Armitage es una interfaz gráfica que facilita la gestión visual de exploits. Asimismo, Metasploit integra herramientas de escaneo como auxiliary/scanner, con capacidades de reconocimiento de red, y módulos de post-exploitation, que permiten mantener el acceso y escalar privilegios. Estas funcionalidades en conjunto hacen de Metasploit una herramienta completa para evaluar vulnerabilidades y realizar simulaciones de ataques.</p>
 
-
-
 ## Referencias
 [1] Rapid7. *Metasploit Overview*. Disponible en: [https://docs.rapid7.com/metasploit/msf-overview/](https://docs.rapid7.com/metasploit/msf-overview/)  
 [2] Metasploit Docs. *Using Metasploit – Basics*. Disponible en: [https://docs.metasploit.com/docs/using-metasploit/basics/using-metasploit.html](https://docs.metasploit.com/docs/using-metasploit/basics/using-metasploit.html)<br>
